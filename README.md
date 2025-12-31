@@ -23,8 +23,6 @@ El análisis se realizó a partir de tres conjuntos de datos:
 ---
 
 ## 🔍 Análisis realizado
-
-## 🔍 Análisis realizado
 - Análisis de usuarios: DAU, WAU, MAU, retención y conversión.
 - Análisis de ventas y cohortes.
 - Análisis de costos de marketing por fuente y por mes.
